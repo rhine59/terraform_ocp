@@ -1,0 +1,2 @@
+#terraform taint null_resource.build_inventory
+terraform taint local_file.build_inventory

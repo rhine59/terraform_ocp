@@ -1,0 +1,10 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+10.134.214.138	utility
+10.134.214.149	ocpbastion1.10.134.214.149.nip.io ocpbastion1
+10.134.214.155	ocpmstr1.10.134.214.155.nip.io ocpmstr1
+10.134.214.157	ocpnode1.10.134.214.157.nip.io ocpnode1
+10.134.214.158	ocpnode2.10.134.214.158.nip.io ocpnode2
+10.134.214.160	ocpinfra1.10.134.214.160.nip.io ocpinfra1
+10.134.214.161	ocpinfra2.10.134.214.161.nip.io ocpinfra2
